@@ -7,5 +7,5 @@ function fibonacci(num) {
 		fib.push(x+y);
 	}
 	return (fib[num]);
-
+}
 module.exports = fibonacci;
